@@ -19,7 +19,7 @@ function App() {
       <GlobalStyles/>
       <Header />
       <Routes>
-        <Route path="/home" Component={Home}/>
+        <Route path="/" Component={Home}/>
         <Route path="/formulario" Component={VideoForm}/>
       </Routes>
       <Footer/>
