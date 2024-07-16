@@ -1,0 +1,29 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Aprendidiendo css",
+      "categoria": "frontend",
+      "imagen": "url_imagen_ejemplo",
+      "video": "url_video_ejemplo",
+      "descripcion": "Descripcion del video"
+    },
+    {
+      "id": "2",
+      "titulo": "Aprendidiendo node",
+      "categoria": "backend",
+      "imagen": "url-magen",
+      "video": "url_video_ejemplo",
+      "descripcion": "Descripcion del video"
+    },
+    {
+      "id": "4",
+      "titulo": "Aprendidiendo css",
+      "categoria": "innovacion",
+      "imagen": "url_imagen_ejemplo",
+      "video": "url_video_ejemplo",
+      "descripcion": "Descripcion del video"
+    }
+
+  ]
+}

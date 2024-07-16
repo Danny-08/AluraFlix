@@ -1,0 +1,28 @@
+.banner {
+    box-sizing: border-box;
+    background-image: url(/img/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 700px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+.banner h1 {
+    background-color: #6BD1FF;
+    border-radius: 10px;
+    width: max-content;
+    padding: 2%;
+}
+
+.banner img {
+    width: 50%;
+    border: 5px solid #6BD1FF;
+    border-radius: 20px;
+
+}

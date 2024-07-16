@@ -1,0 +1,88 @@
+/* styles.css */
+.categoria {
+    margin-bottom: 20px;
+  }
+  
+  .titulo-categoria {
+    font-weight: bold;
+  }
+  
+  .video-tarjeta {
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+
+  .imagen {
+    width: 429.19px;
+height: 260.85px;
+gap: 0px;
+border-radius: 15px 15px 0px 0px;
+border: 5px 0px 0px 0px;
+   
+background-size: cover;
+  }
+
+.border-frontend {
+    border: 5px solid #6BD1FF;
+    box-shadow: 8px 0px 17px 8px #6BD1FF inset;
+}
+
+.border-backend {
+    border: 5px solid var(--Backend, #00C86F);
+    box-shadow: 8px 0px 17px 8px #00C86F inset;
+}
+
+.border-innovacion {
+    border: 5px solid var(--inov-gesto, #FFBA05);
+    box-shadow: 8px 0px 17px 8px #FFBA05 inset;
+}
+
+.botones {
+    display: flex;
+}
+
+.button-card {
+    background: #000000E5;
+    width: 50%;
+    padding: 2% 0;
+    border-radius: 0;
+   display: flex;
+   gap: 1%;
+   align-items: center;
+   justify-content: center;
+}
+
+.button-card:hover {
+    cursor: pointer;
+}
+
+.icono {
+    width: 25.43px;
+height: 28px;
+}
+
+.botones-frontend {
+    border: 0px, 5px, 5px, 5px;
+border-style: solid;
+border-color: var(--FrontEnd, #6BD1FF);
+box-shadow: 0px -4px 5px 3px #6BD1FF inset;
+
+}
+
+.botones-backend {
+    border-width: 0px, 5px, 5px, 5px;
+border-style: solid;
+border-color: var(--Backend, #00C86F);
+box-shadow: 0px -4px 5px 3px #00C86F inset;
+
+}
+
+.botones-innovacion {
+    border-width: 0px, 5px, 5px, 5px;
+border-style: solid;
+border-color: var(--inov-gesto, #FFBA05);
+box-shadow: 0px -4px 5px 3px #FFBA05 inset;
+
+}

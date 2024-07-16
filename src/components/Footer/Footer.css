@@ -1,0 +1,16 @@
+.footer {
+    background: #000000E5;
+    border-top: 4px solid #2271D1;
+    text-align: center;
+    padding: 1%;
+    box-sizing: border-box;
+    
+}
+
+.footer img {
+    width: 168.45px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+
+}
