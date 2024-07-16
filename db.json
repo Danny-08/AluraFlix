@@ -12,7 +12,7 @@
       "id": "2",
       "titulo": "Spring Framework",
       "categoria": "Backend",
-      "imagen": "/img/imagen7.png",
+      "imagen": "/img/image7.png",
       "video": "https://youtu.be/t-iqt1b2qqk?si=xtcjCZgy8YFi7vpQ",
       "descripcion": "Descripcion del video"
     },
@@ -20,7 +20,7 @@
       "id": "4",
       "titulo": "Que son las soft skills",
       "categoria": "Innovación",
-      "imagen": "/img/imagen8.png",
+      "imagen": "/img/image8.png",
       "video": "https://youtu.be/vhwspfvI52k?si=-m7r_OhF5YVsuMYN",
       "descripcion": "Descripcion del video"
     }
