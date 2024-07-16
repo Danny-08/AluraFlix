@@ -9,14 +9,19 @@ const Header = () => {
   const [activeButton, setActiveButton] = useState(' ');
 
   useEffect(() => {
-    // Aquí puedes definir lógica adicional si es necesario
+    
   }, []);
 
   const handleButtonClick = (route) => {
     setActiveButton(route);
-    navigate(`/${route}`);
-  };
 
+    if(route === 'home'){
+      navigate('/')
+    } else {
+      navigate(`/${route}`);
+    }
+    
+  };
   return (
     <header className='header'>
         <img src="./img/logo.png" alt="logoAlura" />
