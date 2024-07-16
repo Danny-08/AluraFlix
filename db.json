@@ -3,7 +3,7 @@
     {
       "id": "1",
       "titulo": "Aprendidiendo css",
-      "categoria": "frontend",
+      "categoria": "Frontend",
       "imagen": "url_imagen_ejemplo",
       "video": "url_video_ejemplo",
       "descripcion": "Descripcion del video"
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "titulo": "Aprendidiendo node",
-      "categoria": "backend",
+      "categoria": "Backend",
       "imagen": "url-magen",
       "video": "url_video_ejemplo",
       "descripcion": "Descripcion del video"
@@ -19,7 +19,7 @@
     {
       "id": "4",
       "titulo": "Aprendidiendo css",
-      "categoria": "innovacion",
+      "categoria": "Innovación",
       "imagen": "url_imagen_ejemplo",
       "video": "url_video_ejemplo",
       "descripcion": "Descripcion del video"
